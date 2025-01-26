@@ -1,6 +1,6 @@
 # A2-Language-Model :
 ## Please download : https://drive.google.com/file/d/1I5EZ0uuKDJZ9kwOyPVj12bX5haoavnqN/view?usp=sharing 
-Put this file into the model folder before running app.py because best-val-lstm_lm.pt file are bigger than 100Mbps so I cannot push it to my github.
+Put this file into the model folder before running app.py because best-val-lstm_lm.pt file is bigger than 100Mbps so I cannot push it to my github.
 
 ## st124738
 ## Sonakul kamnuanchai
