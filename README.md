@@ -43,7 +43,7 @@ Producing cohesive and contextually appropriate content derived from a specified
 - Step3 : python app.py
 
 ## Screenshot demo web application with temperature = 0.5
-![App Screenshot](assets/a2-screenshot2.jpg)
-
 ![App Screenshot](assets/a2-screenshot.jpg)
+
+![App Screenshot](assets/a2-screenshot2.jpg)
 
